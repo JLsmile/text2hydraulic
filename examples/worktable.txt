@@ -1,0 +1,1 @@
+Design a horizontal hydraulic worktable. Workpiece mass: 500 kg; friction coefficient: 0.15; maximum speed: 0.1 m/s; stroke: 0.5 m; maximum system pressure: 10 MPa. Complete circuit design, sizing, Modelica modeling and OpenModelica simulation. Report actual velocity, stroke coverage and acceptance results.

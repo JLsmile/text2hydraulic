@@ -1,0 +1,27 @@
+{
+  "claude_command": "claude",
+  "model": "",
+  "permission_mode": "inherit",
+  "terminal_permission_mode": "inherit",
+  "omc_command": "omc",
+  "openhydraulics_package": "bundle/OpenHydraulics/package.mo",
+  "timeout_seconds": 1800,
+  "allowed_tools": [
+    "Read",
+    "Write",
+    "Edit",
+    "Glob",
+    "Grep",
+    "Skill",
+    "Bash(python3 *)",
+    "Bash(omc *)",
+    "Bash(timeout *)",
+    "Bash(ls *)",
+    "Bash(cat *)",
+    "Bash(mkdir *)",
+    "Bash(pwd)"
+  ],
+  "renderer_python": "",
+  "icon_exporter": "",
+  "render_timeout_seconds": 120
+}
